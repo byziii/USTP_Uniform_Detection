@@ -1,1 +1,1 @@
-# USTP_Uniform_Detection
+# USTP Uniform Detection
